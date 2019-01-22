@@ -1,0 +1,7 @@
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Tax Calculator\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
